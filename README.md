@@ -5,8 +5,14 @@ jsdeliver cdn
 
 图床格式：
 
-```http
+```https
 https://cdn.jsdelivr.net/gh/<用户名>/<仓库名>/<文件及路径>
+```
+
+测试：
+
+```https
+https://cdn.jsdelivr.net/gh/kzycn/cdn/kx.png
 ```
 
 
