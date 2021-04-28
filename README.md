@@ -1,4 +1,4 @@
-# husei_cdn
+# my_cdn
 jsdeliver cdn
 
 用来当作免费的图床
