@@ -1,5 +1,5 @@
 # my_cdn
-jsdeliver cdn
+cdn by jsdeliver
 
 用来当作免费的图床
 
